@@ -1,6 +1,6 @@
-#### 👋 Hi there, My name is Julius and Welcome to my Github Page!
+## 👋 Hi there, My name is Julius and Welcome to my Github Page!
 
-## I am currently doing my Masters in Computer Engineering at NYU
+#### I am currently doing my Masters in Computer Engineering at NYU
 
 <br />
 
@@ -18,8 +18,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter](https://twitter.com/jsdsz)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/julius-dsouza/)
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jsdsz)
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/julius-dsouza/)
 
 <br />
 
