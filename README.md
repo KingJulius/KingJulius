@@ -16,10 +16,7 @@
 
 <br />
 
-### Connect with me:
-
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jsdsz)
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/julius-dsouza/)
+<img src="https://github-readme-stats.vercel.app/api?username=KingJulius&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <br />
 
@@ -38,7 +35,9 @@
 <img align="left" alt="GitHub" width="26px" src="/images/scikit-learn.png" />
 <img align="left" alt="GitHub" width="26px" src="/images/tensorflow.png" />
 
+<br />
 
-### Github Status:
+### Connect with me:
 
-<img src="https://github-readme-stats.vercel.app/api?username=KingJulius&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jsdsz)
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/julius-dsouza/)
