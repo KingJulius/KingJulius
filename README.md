@@ -1,18 +1,20 @@
 ## 👋 Hi there, My name is Julius and Welcome to my Github Page!
 
-#### I am currently doing my Masters in Computer Engineering at NYU
-
 <br />
 
 ### A Little Bit About Me
 
-- 🔭 I am a Software Developer
+- 🔭 I am a Software Developer/Full Stack Engineer with over 2 years of experience.
 
-- 🌱 I am currently working on Machine Learning and Deep Learning Based Projects.
+- 🌱 I work on Machine Learning and Deep Learning as side projects.
 
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contributing to Open Source Projects
 
-- ⚡ Fun Fact: I love to draw and play guitar
+<br />
+
+#### I am currently pursuing my Masters in Computer Engineering from NYU and I will be graduating by December 2023. 
+
+#### Do reach out to me if you'd like to colaborate or are providing full-time SDE/Full Stack/Front End Full time opportunities.
 
 <br />
 
