@@ -18,8 +18,12 @@
 
 ### Connect with me:
 
-[![Twitter](./images/twitter-light.svg)](https://twitter.com/jsdsz)
-[![LinkedIn](./images/linkedin-light.svg)](https://www.linkedin.com/in/julius-dsouza/)
+[![Twitter](./images/twitter-light.svg)](https://twitter.com/jsdsz#gh-light-mode-only)
+[![Twitter](./images/twitter-dark.svg)](https://twitter.com/jsdsz#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![LinkedIn](./images/linkedin-light.svg)](https://www.linkedin.com/in/julius-dsouza#gh-light-mode-only)
+[![LinkedIn](./images/linkedin-dark.svg)](https://www.linkedin.com/in/julius-dsouza#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 <br />
 
