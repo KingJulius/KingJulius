@@ -16,7 +16,7 @@
 
 #### I am currently pursuing my Masters in Computer Engineering from NYU and I will be graduating by December 2023. 
 
-#### Do reach out to me if you'd like to colaborate or are providing SDE / Full Stack / Front End opportunities.
+#### Do reach out to me if you'd like to collaborate or are providing SDE / Full Stack / Front End opportunities.
 
 ---
 
