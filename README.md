@@ -1,3 +1,5 @@
+# Hi there, My name is Julius and Welcome to my Github Page! 👋 
+
 ![Header](./images/github-header-image.png)
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
