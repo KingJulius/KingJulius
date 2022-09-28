@@ -1,11 +1,10 @@
-# Hi there, My name is Julius and Welcome to my Github Page! 👋 
+<img  align="center" alt="Header" width=1100 height=200 src="https://media.giphy.com/media/3MGrKSBpYnY5HYpQQL/giphy.gif">
 
-![Header](./images/header-image.png)
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KingJulius&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KingJulius&label=Profile%20views&color=0e75b6&style=flat" alt="juliusdsouza" /> </p>
 
 ### A Little Bit About Me:
 
