@@ -52,10 +52,11 @@
 <img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="NextJS" width="26px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="padding-right:10px;" />
-
+&nbsp;
 
 
 <br />
+
 
 ### Dev Stats:
 
