@@ -9,6 +9,7 @@
 ### A Little Bit About Me:
 
 - 🔭 I am a Software Developer / Full Stack Engineer with over 2 years of experience.
+- 💻  I’m currently working on Full Stack Projects using Nodejs, Express, React, Next.js, Mongodb, Javascript and TypeScript.
 - 🌱 In my free time, I like working on Full Stack and Machine Learning based projects.
 - 🥅 2022 Goals: Contributing to Open Source Projects.
 - 📫 How to reach me: **jsdsz1996@gmail.com**
@@ -19,7 +20,7 @@
 
 #### Do reach out to me if you'd like to collaborate or are providing SDE / Full Stack / Front End opportunities.
 
----
+
 
 ### Connect with me:
 
@@ -54,17 +55,30 @@
 
 
 
-<br /><br />
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingJulius&layout=compact)](https://github.com/KingJulius/github-readme-stats)
-
----
-
 <br />
+
+### Dev Stats:
+
+<details>
+  <summary><b>🛠  Most Used Languages</b></summary>
+  
+   <br />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingJulius&layout=compact)](https://github.com/KingJulius/github-readme-stats">
+</details>
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=KingJulius&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <summary><b>⚡ GitHub Stats</b></summary>
+  
+   <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=KingJulius&theme=vision-friendly-dark&show_icons=true">
 </details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://streak-stats.demolab.com?user=KingJulius&theme=highcontrast&hide_border=false" />
+</details>
+
+
