@@ -72,14 +72,19 @@
   <summary><b>⚡ GitHub Stats</b></summary>
   
    <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=KingJulius&theme=vision-friendly-dark&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KingJulius&theme=vision-friendly-dark&show_icons=true&hide_border=true">
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://streak-stats.demolab.com?user=KingJulius&theme=highcontrast&hide_border=false" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=KingJulius&theme=highcontrast&hide_border=true" />
 </details>
 
+<details>	
+  <summary><b>📈 Github Activity Graph</b></summary>
 
+  <br />
+  <img height="240em"  src="https://activity-graph.herokuapp.com/graph?username=KingJulius&theme=high-contrast&hide_border=true" />
+</details>
