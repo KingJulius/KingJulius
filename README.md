@@ -4,7 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KingJulius&label=Profile%20views&color=0e75b6&style=flat" alt="juliusdsouza" /> </p>
+
+<a href="https://github.com/KingJulius">
+         <img alt="Github views" title="Github views" src="https://komarev.com/ghpvc/?username=KingJulius&label=Profile%20views&color=yellow&style=for-the-badge"/></a> 
+<a href="https://github.com/KingJulius?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/KingJulius?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://github.com/KingJulius">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KingJulius?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
 ### A Little Bit About Me:
 
