@@ -82,15 +82,22 @@
 </details>
 
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+  <summary><b>☄️ GitHub Streaks</b></summary>
 
   <br />
   <img height="180em" src="https://streak-stats.demolab.com?user=KingJulius&theme=highcontrast&hide_border=true" />
 </details>
 
 <details>	
-  <summary><b>📈 Github Activity Graph</b></summary>
+  <summary><b>📈 GitHub Activity Graph</b></summary>
 
   <br />
   <img height="240em"  src="https://activity-graph.herokuapp.com/graph?username=KingJulius&theme=high-contrast&hide_border=true" />
+</details>
+
+<details>	
+  <summary><b>🏆 GitHub Profile Trophy</b></summary>
+
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=KingJulius&theme=darkhub&no-frame=false&column=7&margin-w=10" />
 </details>
