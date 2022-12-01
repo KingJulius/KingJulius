@@ -86,7 +86,7 @@
   <summary><b>🛠  Most Used Languages</b></summary>
   
    <br />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingJulius&layout=compact)](https://github.com/KingJulius/github-readme-stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingJulius&theme=vision-friendly-dark&hide_border=true&layout=compact">
 </details>
 
 
@@ -94,7 +94,7 @@
   <summary><b>⚡ GitHub Stats</b></summary>
   
    <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KingJulius&theme=vision-friendly-dark&show_icons=true&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KingJulius&theme=vision-friendly-dark&hide_border=true">
 </details>
 
 <details>	
