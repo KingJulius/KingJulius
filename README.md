@@ -104,12 +104,6 @@
   <img height="180em" src="https://streak-stats.demolab.com?user=KingJulius&theme=highcontrast&hide_border=true" />
 </details>
 
-<details>	
-  <summary><b>📈 GitHub Activity Graph</b></summary>
-
-  <br />
-  <img height="240em"  src="https://activity-graph.herokuapp.com/graph?username=KingJulius&theme=high-contrast&hide_border=true" />
-</details>
 
 <details>	
   <summary><b>🏆 GitHub Profile Trophy</b></summary>
