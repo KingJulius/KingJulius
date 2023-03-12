@@ -78,6 +78,7 @@
 <code><img title="My SQL" alt="my sql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
 <code><img title="AWS" alt="aws" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /></code>
 <code><img title="Azure" alt="azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"></code>
+<code><img title="PostgreSQL" alt="postgresql" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/512px-Postgresql_elephant.svg.png"></code>
 <br />
 
 ### Dev Stats:
