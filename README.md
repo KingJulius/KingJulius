@@ -12,16 +12,16 @@
 
 ### A Little Bit About Me:
 
-- 🔭 I am a Software Developer / Full Stack Engineer with over 2 years of experience.
-- 💻  I’m currently working on Full Stack Projects using Nodejs, Express, React, Next.js, Mongodb, Javascript and TypeScript.
-- 🌱 In my free time, I like working on Full Stack and Machine Learning based projects.
-- 🥅 2022 Goals: Contributing to Open Source Projects.
+- 🔭 I am a Software Developer / Full Stack Engineer with over 3 years of experience.
+- 💻  I’m currently working on Full Stack Projects using Nodejs, Express, React, Next.js, Mongodb, Javascript, and TypeScript.
+- 🌱 In my free time, I like working on Full Stack and Machine Learning-based projects.
+- 🥅 2023 Goals: Contributing to Open Source Projects.
 - 📋 [Portfolio Website](https://kingjulius.github.io/) and [LinkedIn Profile](https://www.linkedin.com/in/julius-dsouza/)
 - 📫 How to reach me: **jsdsz1996@gmail.com**
 
 <br /><br/>
 
-#### I am currently pursuing my Masters in Computer Engineering from NYU and I will be graduating by December 2023. 
+#### Graduated NYU with a Master's in Computer Engineering. 
 
 #### Do reach out to me if you'd like to collaborate or are providing SDE / Full Stack / Front End opportunities.
 
