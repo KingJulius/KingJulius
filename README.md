@@ -17,7 +17,6 @@
 - 🔭 I am a Software Developer / Front-end Engineer / Full Stack Engineer with over 4 years of experience.
 - 💻  I’m currently working on Full Stack Projects using Nodejs, Express, React, Next.js, Mongodb, Javascript, and TypeScript.
 - 🌱 In my free time, I like working on Full Stack and Machine Learning-based projects.
-- 🥅 Goals: Contributing to Open Source Projects.
 - 📋 [LinkedIn Profile](https://www.linkedin.com/in/julius-dsouza/) and [Portfolio Website](https://kingjulius.github.io/) (UPDATE IN PROGRESS)
 - 📫 How to reach me: **jsdsz1996@gmail.com**
 
@@ -58,7 +57,6 @@
 <code><img title="Spring" alt="spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
 <code><img title="Markdown" alt="markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
 <code><img title="C" alt="c" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
-<code><img title="Tailwind" alt="tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></code>
 &nbsp;
 
 
@@ -78,7 +76,6 @@
 <code><img title="Linux" alt="linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
 <code><img title="Docker" alt="docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></code>
 <code><img title="My SQL" alt="my sql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
-<code><img title="AWS" alt="aws" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /></code>
 <code><img title="Azure" alt="azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"></code>
 <code><img title="PostgreSQL" alt="postgresql" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/512px-Postgresql_elephant.svg.png"></code>
 <br />
