@@ -6,17 +6,19 @@
 <br />
 
 <a href="https://github.com/KingJulius">
-         <img alt="Github views" title="Github views" src="https://komarev.com/ghpvc/?username=KingJulius&label=Profile%20views&color=yellow&style=for-the-badge"/></a> 
+         <img alt="Github views" title="Github views" src="https://komarev.com/ghpvc/?username=KingJulius&label=Profile%20views&color=yellow&style=for-the-badge"/></a>
+<a href="https://github.com/KingJulius?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/KingJulius?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <a href="https://github.com/KingJulius">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KingJulius?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
 ### A Little Bit About Me:
 
-- 🔭 I am a Software Developer / Full Stack Engineer with over 3 years of experience.
+- 🔭 I am a Software Developer / Front-end Engineer / Full Stack Engineer with over 4 years of experience.
 - 💻  I’m currently working on Full Stack Projects using Nodejs, Express, React, Next.js, Mongodb, Javascript, and TypeScript.
 - 🌱 In my free time, I like working on Full Stack and Machine Learning-based projects.
-- 🥅 2023 Goals: Contributing to Open Source Projects.
-- 📋 [Portfolio Website](https://kingjulius.github.io/) and [LinkedIn Profile](https://www.linkedin.com/in/julius-dsouza/)
+- 🥅 Goals: Contributing to Open Source Projects.
+- 📋 [LinkedIn Profile](https://www.linkedin.com/in/julius-dsouza/) and [Portfolio Website](https://kingjulius.github.io/) (UPDATE IN PROGRESS)
 - 📫 How to reach me: **jsdsz1996@gmail.com**
 
 <br /><br/>
