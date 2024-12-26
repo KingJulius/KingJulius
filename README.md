@@ -17,7 +17,7 @@
 - 🔭 I am a Software Developer / Front-end Engineer / Full Stack Engineer with over 4 years of experience.
 - 💻  I’m currently working on Full Stack Projects using Nodejs, Express, React, Next.js, Mongodb, Javascript, and TypeScript.
 - 🌱 In my free time, I like working on Full Stack and Machine Learning-based projects.
-- 📋 [LinkedIn Profile](https://www.linkedin.com/in/julius-dsouza/) and [Portfolio Website](https://kingjulius.github.io/) (UPDATE IN PROGRESS)
+- 📋 [LinkedIn Profile](https://www.linkedin.com/in/julius-dsouza/) and [Portfolio Website](https://kingjulius.github.io/)
 - 📫 How to reach me: **jsdsz1996@gmail.com**
 
 <br /><br/>
