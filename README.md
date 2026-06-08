@@ -14,8 +14,8 @@
 
 ### A Little Bit About Me:
 
-- 🔭 I am a Software Developer / Front-end Engineer / Full Stack Engineer with over 5 years of experience.
-- 💻  I’m currently working on Full Stack Projects using Nodejs, Express, React, Next.js, Mongodb, Javascript, PHP, and TypeScript.
+- 🔭 I am a Senior Software Developer / Front-end Engineer / Full Stack Engineer with over 5 years of experience.
+- 💻  I’m currently working on full-stack projects using NodeJS, Express, React, Next.js, MongoDB, JavaScript, PHP, AI, and TypeScript.
 - 🌱 In my free time, I like working on Full Stack and Machine Learning-based projects.
 - 📋 [LinkedIn Profile](https://www.linkedin.com/in/julius-dsouza/) and [Portfolio Website](https://kingjulius.github.io/)
 - 📫 How to reach me: **jsdsz1996@gmail.com**
@@ -79,21 +79,6 @@
 
 ### Dev Stats:
 
-<details>
-  <summary><b>🛠  Most Used Languages</b></summary>
-  
-   <br />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingJulius&theme=vision-friendly-dark&hide_border=true&layout=compact">
-</details>
-
-
-<details>
-  <summary><b>⚡ GitHub Stats</b></summary>
-  
-   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KingJulius&theme=vision-friendly-dark&hide_border=true">
-</details>
-
 <details>	
   <summary><b>☄️ GitHub Streaks</b></summary>
 
@@ -102,9 +87,3 @@
 </details>
 
 
-<details>	
-  <summary><b>🏆 GitHub Profile Trophy</b></summary>
-
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=KingJulius&theme=darkhub&no-frame=false&column=7&margin-w=10" />
-</details>
